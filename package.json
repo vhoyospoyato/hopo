@@ -1,0 +1,26 @@
+{
+  "name": "hopo",
+  "version": "1.0.0",
+  "description": "HOPO website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhoyospoyato/hopo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhoyospoyato/hopo/issues"
+  },
+  "homepage": "https://github.com/vhoyospoyato/hopo#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
